@@ -1,0 +1,21 @@
+{
+  "name": "one-blue",
+  "displayName": "One Blue",
+  "description": "It's One Dark but bluer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Blue-color-theme.json"
+      }
+    ]
+  }
+}
