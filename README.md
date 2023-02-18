@@ -15,7 +15,7 @@ So to install:
     code --install-extension one-blue-0.0.1.vsix
     ```
 
-- Open `command pallet`
+- Open `command palette`
 - Select `Preferences: Color Theme`
 - Select `One Blue`
 - Reload vscode
